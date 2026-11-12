@@ -1,0 +1,11 @@
+{
+  "validUser": {
+    "username": "bin2021",
+    "password": "123456"
+  },
+
+  "invalidUser": {
+    "username": "bin2022",
+    "password": "123456"
+  }
+}
