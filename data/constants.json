@@ -1,0 +1,28 @@
+{
+  "urls": {
+    "home": "/",
+    "cart": "/cart.html",
+    "productSamsungGalaxyS6": "/prod.html?idp_=1",
+    "productNokiaLumia": "/prod.html?idp_=2",
+    "homeAfterLogin": "/index.html"
+  },
+
+  "text": {
+    "productsTitle": "Products",
+    "samsungGalaxyText": "Samsung galaxy s6",
+    "completeOrderMessage": "Thank you for your order!"
+  },
+
+  "dialogMessage": {
+    "validatEmptyCredential": "Please fill out Username and Password.",
+    "productAddedSuccessfully": "Product added."
+  },
+  "checkoutData": {
+    "fullName": "John Doe",
+    "country": "USA",
+    "city": "New York",
+    "creditCard": "4111111111111111",
+    "month": "01",
+    "year": "2027"
+  }
+}
